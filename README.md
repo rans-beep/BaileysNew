@@ -12,14 +12,11 @@ This library is highly suitable for building business bots, chat automation syst
 
 ---
 
-### Main Features and Advantages
+### this baileys already supports
 
-- Supports automatic and custom pairing processes
-- Fixes previous pairing issues that often caused failures or disconnections
-- Supports interactive messages, action buttons, and dynamic menus
-- Efficient automatic session management for reliable operation
+- custom pairing 
+- interactive messages, action buttons
 - Compatible with the latest multi-device features from WhatsApp
-- Lightweight, stable, and easy to integrate into various systems
 - Suitable for developing bots, automation, and complete communication solutions
 - Comprehensive documentation and example codes to facilitate development
 
